@@ -8,7 +8,13 @@ A simple note-taking web application built with PHP, MySQL, and Bootstrap.
 * [Usage](#usage)
 * [Features](#features)
 * [License](#license)
+## Screenshots
+--------------
 
+Here are some screenshots of the application:
+
+![NoteWeb Screenshot 1](screenshot1.png)
+![NoteWeb Screenshot 2](screenshot2.png)
 ## Installation
 
 To install NoteWeb, follow these steps:
