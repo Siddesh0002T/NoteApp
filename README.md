@@ -3,7 +3,7 @@ This repository contains the code for a simple note-taking web application calle
 A simple note-taking web application built with PHP, MySQL, and Bootstrap.
 
 ## Table of Contents
-
+* [Screenshots](#screenshots)
 * [Installation](#installation)
 * [Usage](#usage)
 * [Features](#features)
@@ -13,8 +13,14 @@ A simple note-taking web application built with PHP, MySQL, and Bootstrap.
 
 Here are some screenshots of the application:
 
-![NoteWeb Screenshot 1](screenshot1.png)
-![NoteWeb Screenshot 2](screenshot2.png)
+![NoteWeb Screenshot 1](s1.png)
+![NoteWeb Screenshot 2](s2.png)
+![NoteWeb Screenshot 3](s3.png)
+![NoteWeb Screenshot 4](s4.png)
+![NoteWeb Screenshot 5](s5.png)
+![NoteWeb Screenshot 6](s6.png)
+![NoteWeb Screenshot 7](s7.png)
+![NoteWeb Screenshot 8](s8.png)
 ## Installation
 
 To install NoteWeb, follow these steps:
